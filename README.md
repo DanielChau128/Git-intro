@@ -1,6 +1,6 @@
 # Contributors
 
-- Daniel
+- [Daniel](./Daniel.md)
 
 Ecclectic test blog for a chicken crossing a road.
 
